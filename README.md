@@ -5,5 +5,7 @@ Penn-Shredder;
 Penn-Shake;
 Penn-Chord and Penn-Search
 
+A ReadMe for each of these projects can be found in this repository.
+
 Please email me if you are a recruiter/prospective employer and would like access. Thanks!
 
