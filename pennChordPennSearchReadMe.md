@@ -1,6 +1,6 @@
 # Penn|Chord and Penn|Search
 
-##Tools used & Skills Developed
+## Tools used & Skills Developed
 git; api; cpp; c++; dht; event-driven-programming; network-design; network-optimization; chord-protocol; ns3-simulator; search-design; big-o-logn-performance-optimization
 
 ## Intro
