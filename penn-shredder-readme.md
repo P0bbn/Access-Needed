@@ -2,6 +2,9 @@
 A simple program to create a shell that restricts the run-time of executed processes. The shell takes input from users via stdin and executes
 said input as a new process. If the process exceeds a timeout, it is killed. If a process is killed, the shell prints a menacing message to stdout.
 
+##Skills Developed & Tools Used
+c language; vagrant-environments; pipelining; command-line-parser; tokenization; ubuntu-vm; cli-arguments; cli-input-output; cli-input-redirection
+
 ## Installation and Usage
 1. Download the repo
 2. In the project directory, compile the program using the `make` command. This program was designed to compile using **clang**, not **GCC**.
