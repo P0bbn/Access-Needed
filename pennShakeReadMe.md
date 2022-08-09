@@ -1,7 +1,9 @@
 # Penn-Shake
 A simple shell program to simulate a 3-Way TCP Handshake between a Client and a Server.
 
-# Installation and Usage
+## Skills Developed & Tools Used
+c language; tcp/ip protocol; socket-communication; event-driven-programming; pthreads-api; asynchronous-communication; single-threaded-coroutines
+## Installation and Usage
 1. Download the repo.
 2. From within the project directory, compile the program using the `make` command. This program was designed to compile using **clang**, not **GCC**.
 3. You will need to open two shells from within the same session.
