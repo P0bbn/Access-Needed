@@ -1,5 +1,8 @@
 # Penn|Chord and Penn|Search
 
+##Tools used & Skills Developed
+git; api; cpp; c++; dht; event-driven-programming; network-design; network-optimization; chord-protocol; ns3-simulator; search-design; big-o-logn-performance-optimization
+
 ## Intro
 
 * Penn|Chord & PennSearch leverage the *NS3 Network Simmulator* to build a **Chord** designed network and **DHT** search engine.
